@@ -1,0 +1,8 @@
+venv/
+.history/
+*.pyc
+__pycache__/
+fastapi-backend/venv311/
+fastapi-backend/__pycache__/
+.env
+.env.local
